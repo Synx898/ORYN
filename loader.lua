@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://lua.services/api/scripts/b8b88d2eb497512bc6d431440ff168e3/loader"))()
+loadstring(game:HttpGet("https://www.velaware.xyz/api/v1/raw/f5cc2937-b669-4915-babc-f40605c9600a"))()
